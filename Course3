@@ -11,3 +11,8 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Shivraj Kothale
+Stacks and Queues
+I learned that stacks and queues are linear data structures used to store and manage data in a specific order. 
+A stack follows the LIFO (Last In, First Out) principle, meaning the last element added is the first one removed. In contrast, a queue follows the FIFO (First In, First Out) principle, so the first element added is the first one removed. These structures are widely used in programming for tasks like undo operations (stack) and process scheduling (queue).
